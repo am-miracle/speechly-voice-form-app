@@ -7,7 +7,7 @@ import {
 } from "@speechly/react-ui";
 import "./App.css";
 import { VoiceInput,VoiceDatePicker } from '@speechly/react-voice-forms'
-import '@speechly/react-voice-forms/css/theme/mui.css'
+import '@speechly/react-voice-forms/css/theme/capsule.css'
 
 
 function App() {
